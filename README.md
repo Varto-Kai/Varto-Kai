@@ -1,16 +1,35 @@
-## Hi there 👋
+## 🌟 Olá, eu sou o Victor "Varto-Kai"! 🚀
 
-<!--
-**Varto-Kai/Varto-Kai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👋 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou um profissional apaixonado por **tecnologia** e em **constante aprendizado**. Atualmente, atuo como **Analista de Suporte Júnior** na **GbsNet**, um provedor de internet, onde foco em garantir a estabilidade e a satisfação dos usuários.
+
+Minha experiência em suporte técnico tem me dado uma visão valiosa sobre a **operação de redes** e a **infraestrutura de serviços**, mas minha verdadeira paixão está no desenvolvimento.
+
+---
+
+### 💻 Minhas Habilidades e Interesses
+
+Tenho um *background* sólido em **desenvolvimento web**, com foco principal em **Python**. Gosto de transformar desafios em soluções eficientes e práticas.
+
+* **Atualmente:**
+    * **Suporte Técnico:** Diagnóstico de problemas de rede, atendimento ao cliente, e manutenção de serviços de internet.
+* **Experiência em Desenvolvimento:**
+    * **Linguagens:** Python (principalmente) e C#
+    * **Foco:** Desenvolvimento Web focado em FastAPI e aprendendo Ansible para DevOps.
+* **Onde estou investindo meu tempo em aprendizado:**
+    * DevOps - estudando ainda mais o meu contexto em uma Operadora de Internet estou buscando entender mais sobre como posso somar ainda mais na empresa oferecendo meu conhecimentos de programação para automatização de processos;
+    * Analise de Rede: Como parte da minha função, entender como posso manter os clientes conectados faz parte de todo o processo de analise de rede.
+
+---
+
+### 💡 Conecte-se Comigo
+
+Acredito que a tecnologia deve ser acessível e que o aprendizado nunca para. Se você tem um projeto interessante, uma ideia para um *script* em Python, ou apenas quer trocar conhecimentos, fique à vontade para entrar em contato!
+
+* **Email:** v.l.mendes18@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/victorlmendes/
+
+---

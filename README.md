@@ -34,7 +34,7 @@ Sou estudante de **Engenharia de Software**, buscando aplicar conhecimentos de p
 
 * **Transformação Digital no Suporte:** Migração de checklists tradicionais para fluxos de trabalho ágeis e colaborativos.
 * **Desenvolvimento Backend:** Estudos focados em criar soluções robustas e escaláveis.
-* **RPG & Storytelling:** Game Master de *Call of Cthulhu 7th Ed*, exercitando criatividade e liderança em cenários complexos.
+* **RPG & Storytelling:** Game Master de *Call of Cthulhu 7th Ed* e *Dungeons and Dragons 5e* exercitando criatividade e liderança em cenários complexos.
 
 ---
 

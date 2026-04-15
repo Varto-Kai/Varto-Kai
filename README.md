@@ -4,7 +4,7 @@
 
 ### 👋 Sobre Mim
 
-Sou um profissional apaixonado por **tecnologia** e em **constante aprendizado**. Atualmente, atuo como **Supervisor de Costumer Service & Suporte** na **GbsNet**, um provedor de internet, onde foco em garantir a estabilidade e a satisfação dos usuários.
+Sou um profissional apaixonado por **tecnologia** e em **constante aprendizado**. Atualmente, atuo como **Supervisor de Costumer Service & Suporte** na **GbsNet**, um provedor de internet, onde foco em garantir a estabilidade operacinal diaria, monitorar KPIs e fluxo de tarefas.
 
 Minha experiência em suporte técnico tem me dado uma visão valiosa sobre a **operação de redes** e a **infraestrutura de serviços**, mas minha verdadeira paixão está no desenvolvimento.
 

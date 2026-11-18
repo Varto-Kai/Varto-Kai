@@ -20,7 +20,6 @@ Atuo como **Supervisor de Service & Support na GbsNet**, liderando a operação 
 Na Engenharia de Software (UNIASSELVI), meu foco é resolver dores reais de negócio sem cair no *"vibe coding"*. Adoto **Spec-Driven Development (SDD)** — combinando especificação formal, testes automatizados e arquitetura desacoplada — para construir sistemas confiáveis e fáceis de manter.
 
 **🛠️ No que estou focado atualmente:**
-- **Operação & Processos:** Implementação de *Intelligent Swarming* e gestão centralizada via ClickUp para operações regionais de ISP.
 - **Automação de Suporte:** Ferramentas em Python para diagnóstico de rede, provisionamento e eliminação de tarefas manuais.
 - **Arquitetura & SDD:** Desenvolvimento de sistemas críticos com *Clean Architecture*, *Event Sourcing* e *GitHub Spec Kit*.
 
@@ -29,7 +28,7 @@ Na Engenharia de Software (UNIASSELVI), meu foco é resolver dores reais de neg�
 ### 🚀 Projetos em Destaque
 
 #### ⏱️ [Kairós — Sistema de Ponto Corporativo (REP-P / PTRP)](https://github.com/Varto-Kai/sistema-de-pontos-showcase)
-> Estudo de caso público de um SaaS de ponto eletrônico em conformidade com a **Portaria MTP nº 671/2021**, **CLT** e **LGPD**.
+> Estudo de caso de um SaaS de ponto eletrônico em conformidade com a **Portaria MTP nº 671/2021**, **CLT** e **LGPD** que estou desenvolvendo para GbsNet.
 - **Diferenciais técnicos:** Motor de cálculo puro desacoplado (*Clean Architecture*), *Event Sourcing & CQRS* com *ledger* imutável (cadeia **SHA-256** + **NSR**), geração de arquivos fiscais (**AFD/AEJ**) e esteira rigorosa de testes em **Pytest**.
 - **Stack:** `Python` `FastAPI` `React 19` `TypeScript` `Tailwind CSS` `Pytest` `Docker`
 

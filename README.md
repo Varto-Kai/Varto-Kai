@@ -1,48 +1,67 @@
----
+<div align="center">
 
-# 🌟 Olá, eu sou o Victor "Varto-Kai"! 🚀
+# Olá, eu sou o Victor "Varto-Kai" 👋
 
-### 👨‍💻 Supervisor de Service & Support | Estudante de Engenharia de Software
+**Supervisor de Service & Support @ GbsNet | Graduando em Engenharia de Software**
 
-Atualmente sou **Supervisor de Service & Support** na **GbsNet**, onde lidero a equipe de suporte técnico. Meu foco principal é garantir a estabilidade operacional, gerenciar o fluxo de tarefas da equipe e monitorar KPIs para entregar a melhor experiência de conexão aos nossos clientes.
+*Conectando liderança operacional em Telecom/ISP com Engenharia de Software orientada a especificações (SDD), arquitetura limpa e automação.*
 
-Sou estudante de **Engenharia de Software**, buscando aplicar conhecimentos de programação para automatizar processos internos e elevar a qualidade da nossa entrega técnica.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorlmendes/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:v.l.mendes18@gmail.com)
 
----
-
-### 🛠️ No que estou trabalhando hoje
-
-* **Liderança de Equipe:** Gestão direta da operação de suporte, garantindo que o atendimento flua com eficiência e que problemas complexos sejam corretamente escalonados para a equipe de Infraestrutura.
-* **Otimização de Processos:** Implementando o modelo de **Intelligent Swarming** para promover a colaboração em tempo real entre os membros da equipe e agilizar a resolução de chamados.
-* **Gestão de Tarefas:** Centralização e mapeamento de atividades via **ClickUp**, focando na organização técnica das operações nas regiões do nosso Provedor GBSNET no Estado do Pará.
-* **Automação de Suporte:** Utilizando **Python** para criar scripts que auxiliam no diagnóstico de rede e na automação de tarefas repetitivas do dia a dia da supervisão.
+</div>
 
 ---
 
-### 💻 Stack Técnica & Estudos
+### 🧭 Sobre Mim & Filosofia de Engenharia
 
-| Categoria | Tecnologias e Metodologias |
+Atuo como **Supervisor de Service & Support na GbsNet**, liderando a operação de suporte técnico no Estado do Pará com foco em estabilidade de rede, KPIs e escalonamento eficiente para Infraestrutura.
+
+Na Engenharia de Software (UNIASSELVI), meu foco é resolver dores reais de negócio sem cair no *"vibe coding"*. Adoto **Spec-Driven Development (SDD)** — combinando especificação formal, testes automatizados e arquitetura desacoplada — para construir sistemas confiáveis e fáceis de manter.
+
+**🛠️ No que estou focado atualmente:**
+- **Operação & Processos:** Implementação de *Intelligent Swarming* e gestão centralizada via ClickUp para operações regionais de ISP.
+- **Automação de Suporte:** Ferramentas em Python para diagnóstico de rede, provisionamento e eliminação de tarefas manuais.
+- **Arquitetura & SDD:** Desenvolvimento de sistemas críticos com *Clean Architecture*, *Event Sourcing* e *GitHub Spec Kit*.
+
+---
+
+### 🚀 Projetos em Destaque
+
+#### ⏱️ [Kairós — Sistema de Ponto Corporativo (REP-P / PTRP)](https://github.com/Varto-Kai/sistema-de-pontos-showcase)
+> Estudo de caso público de um SaaS de ponto eletrônico em conformidade com a **Portaria MTP nº 671/2021**, **CLT** e **LGPD**.
+- **Diferenciais técnicos:** Motor de cálculo puro desacoplado (*Clean Architecture*), *Event Sourcing & CQRS* com *ledger* imutável (cadeia **SHA-256** + **NSR**), geração de arquivos fiscais (**AFD/AEJ**) e esteira rigorosa de testes em **Pytest**.
+- **Stack:** `Python` `FastAPI` `React 19` `TypeScript` `Tailwind CSS` `Pytest` `Docker`
+
+#### 🏹 [Huntress — RPG de Ação 2D](https://github.com/Varto-Kai/huntress)
+> RPG de ação isométrico/top-down em pixel art focado em investigação tática e combate contra chefes.
+- **Diferenciais técnicos:** Desenvolvido integralmente sob **Spec-Driven Development (SDD)** com **GitHub Spec Kit** (Constituição, GDD, Portões de Qualidade e arquitetura modular por componentes e máquinas de estado).
+- **Stack:** `Godot 4.x` `GDScript` `Spec-Driven Development`
+
+
+---
+
+### 💻 Stack Técnica & Domínios
+
+| Área | Tecnologias, Ferramentas & Práticas |
 | :--- | :--- |
-| **Linguagens** | Python (FastAPI / Automação), C# (.NET) |
-| **Gestão & Qualidade** | PDCA, Planos de Ação, ClickUp, Intelligent Swarming |
-| **Ferramentas ISP** | Monitoramento via OLTCloud, Anlix e integração com ERP Voalle |
-| **Educação** | Graduando em Engenharia de Software |
+| **Backend & Automação** | Python (FastAPI, Pytest, Scripts/Bots), C# (.NET), Programação Orientada a Objetos |
+| **Frontend** | React 19, TypeScript, Tailwind CSS |
+| **Arquitetura & Métodos** | Spec-Driven Development (SDD), Clean Architecture, Event Sourcing, CQRS, Git |
+| **Infra & Dados** | Docker, MySQL, SQLite |
+| **Redes & ISP** | GPON/ONT, TR-069, CGNAT, DNS, Gestão de CPE, OLTCloud, Anlix, ERP Voalle |
+| **Idiomas** | Português (Nativo), Inglês C1 (EF SET) |
 
 ---
 
-### 📈 Projetos e Interesses
+### 🎲 Além do Código
 
-* **Transformação Digital no Suporte:** Migração de checklists tradicionais para fluxos de trabalho ágeis e colaborativos.
-* **Desenvolvimento Backend:** Estudos focados em criar soluções robustas e escaláveis.
-* **RPG & Storytelling:** Game Master de *Call of Cthulhu 7th Ed* e *Dungeons and Dragons 5e* exercitando criatividade e liderança em cenários complexos.
+- **RPG & Storytelling:** Game Master de *Call of Cthulhu 7th Ed.* e *Dungeons & Dragons 5e* — exercitando liderança, improviso e gestão de cenários complexos.
 
 ---
 
-### 💡 Conecte-se Comigo
+<div align="center">
 
-Estou sempre em busca de trocar experiências sobre gestão de equipes técnicas, automação com Python e metodologias de suporte.
+📧 **v.l.mendes18@gmail.com** • 🔗 **[linkedin.com/in/victorlmendes](https://www.linkedin.com/in/victorlmendes/)**
 
-* **📧 Email:** v.l.mendes18@gmail.com
-* **🔗 LinkedIn:** [linkedin.com/in/victorlmendes/](https://www.linkedin.com/in/victorlmendes/)
-
----
+</div>

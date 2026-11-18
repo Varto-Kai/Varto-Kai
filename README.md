@@ -48,7 +48,7 @@ Na Engenharia de Software (UNIASSELVI), meu foco é resolver dores reais de neg�
 | **Frontend** | React 19, TypeScript, Tailwind CSS |
 | **Arquitetura & Métodos** | Spec-Driven Development (SDD), Clean Architecture, Event Sourcing, CQRS, Git |
 | **Infra & Dados** | Docker, MySQL, SQLite |
-| **Redes & ISP** | GPON/ONT, TR-069, CGNAT, DNS, Gestão de CPE, OLTCloud, Anlix, ERP Voalle |
+| **Redes & ISP** | GPON/ONT, TR-069, CGNAT, DNS, Gestão de CPE, OLTCloud, ERP Voalle |
 | **Idiomas** | Português (Nativo), Inglês C1 (EF SET) |
 
 ---
